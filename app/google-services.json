@@ -49,50 +49,6 @@
           "status": 2
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:530583602940:android:417524091f25b37c",
-        "android_client_info": {
-          "package_name": "org.ignus.app"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "530583602940-8tclvvpgn5gusgh2oq7e7ht7hnj7rkn2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "org.ignus.app",
-            "certificate_hash": "1d865b75d07bbc023f026a6a8f96351c55fa21a9"
-          }
-        },
-        {
-          "client_id": "530583602940-dbvg8tk3ladcbbo9nbktrb2d0h59usvc.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBpxE6v-3waDS_r738Ws8iwSmTfkEw7d-k"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "530583602940-dbvg8tk3ladcbbo9nbktrb2d0h59usvc.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
     }
   ],
   "configuration_version": "1"
