@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "530583602940",
-    "firebase_url": "https://ignus-2019.firebaseio.com",
-    "project_id": "ignus-2019",
-    "storage_bucket": "ignus-2019.appspot.com"
+    "project_number": "322033044225",
+    "firebase_url": "https://ignus-2019-cae48.firebaseio.com",
+    "project_id": "ignus-2019-cae48",
+    "storage_bucket": "ignus-2019-cae48.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:530583602940:android:8ecb5ba6be7b0262",
+        "mobilesdk_app_id": "1:322033044225:android:8ecb5ba6be7b0262",
         "android_client_info": {
           "package_name": "org.ignus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "530583602940-t7na6avu7a1iq3aomtk2h5vpg8lld0ei.apps.googleusercontent.com",
+          "client_id": "322033044225-fvcf1cdo27re7sfaqk78omavla7smc23.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "org.ignus",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "530583602940-dbvg8tk3ladcbbo9nbktrb2d0h59usvc.apps.googleusercontent.com",
+          "client_id": "322033044225-851etpcpa36fqsl3uemlq730ovq7rshi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBpxE6v-3waDS_r738Ws8iwSmTfkEw7d-k"
+          "current_key": "AIzaSyDRzusL--2m-m2iQH7ysB0Sl9PPffpmpgc"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "530583602940-dbvg8tk3ladcbbo9nbktrb2d0h59usvc.apps.googleusercontent.com",
+              "client_id": "322033044225-851etpcpa36fqsl3uemlq730ovq7rshi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
